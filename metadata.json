@@ -1,0 +1,6 @@
+{
+  "name": "Nhật Ký Vận Hành Container - Quản Lý & Đồng Bộ Google Sheet",
+  "description": "Ứng dụng di động dành cho lái xe container nhập liệu km vận hành, giờ lạnh và tự động đồng bộ thời gian thực sang Google Sheet của quản lý đội xe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
